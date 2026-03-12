@@ -12,9 +12,6 @@ Hi, I'm Manvith Soma, a Computer Science student passionate about Data Science, 
 ![](https://nirzak-streak-stats.vercel.app/?user=manvithsoma1&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=manvithsoma1&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=manvithsoma1&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=manvithsoma1&icon=0&color=0)](https://visitcount.itsvg.in)
 
